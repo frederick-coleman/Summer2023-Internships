@@ -51,6 +51,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | BD                                                                                    | San Diego, CA | **🔒 Closed 🔒** Data Science                                                                                     |
 | Bridgewater Associates | Westport, CT | **🔒 Closed 🔒** Investment Engineer Intern |
 | Bevootech                                                                                         | Remote                         | **🔒 Closed 🔒** Business Development Intern, Software Development Intern, Project Management Intern |
+| Blockonomics, Youtube Content Creator|  Remote  | https://wellfound.com/l/2yCk1f
 | Bristol Myers Squibb                                                                                        | Tampa, FL                         | **🔒 Closed 🔒**  Data Science
 | Capital One   | Multiple Locations in United States | **🔒 Closed 🔒** Software Engineering (no visa sponsorship; instant rejection if you declare sponsorship need in the application), Machine Learning, Cyber Security 							|
 | Capstone Investment Advisors                                                             | NYC, NY                              | **🔒 Closed 🔒** SWE
